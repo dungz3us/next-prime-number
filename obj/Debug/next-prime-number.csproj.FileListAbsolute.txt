@@ -1,0 +1,7 @@
+D:\C#\KTLT\BTL\next-prime-number\bin\Debug\next-prime-number.exe.config
+D:\C#\KTLT\BTL\next-prime-number\bin\Debug\next-prime-number.exe
+D:\C#\KTLT\BTL\next-prime-number\bin\Debug\next-prime-number.pdb
+D:\C#\KTLT\BTL\next-prime-number\obj\Debug\next-prime-number.csproj.AssemblyReference.cache
+D:\C#\KTLT\BTL\next-prime-number\obj\Debug\next-prime-number.csproj.CoreCompileInputs.cache
+D:\C#\KTLT\BTL\next-prime-number\obj\Debug\next-prime-number.exe
+D:\C#\KTLT\BTL\next-prime-number\obj\Debug\next-prime-number.pdb
